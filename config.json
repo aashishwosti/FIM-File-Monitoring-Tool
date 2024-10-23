@@ -1,0 +1,9 @@
+{
+    "directory_to_watch": "path/to/your/directory_to_watch",
+    "log_file_path": "path/to/your/log.txt",
+    "source_directory": "path/to/your/source_directory",
+    "destination_directory": "path/to/your/destination_directory",
+    "monitor_interval": 30,
+    "file_whitelist": [],
+    "file_blacklist": []
+}
